@@ -42,7 +42,7 @@ PCB Ruler
 | [M177 NRF24L01](https://robu.in/product/m177-nrf24l01-2-4ghz-antenna-wireless-transceiver-module/) | M177 NRF24L01 2.4GHz Antenna Wireless Transceiver Module.   |<img src="src_image/M177_NRF24L01.jpg" height="80"><img src="src_image/M177_NRF24L01_pinout.jpg" height="80"> | not_yet|
 | [3.3V Adapter Board](https://robu.in/product/3-3v-adapter-board-for-24l01-wireless-module/) | It can be used with NRF24L01 wireless module  |<img src="src_image/Adapter_24L01.jpg" height="80">|
 | [HC-12 433 SI4463](https://robu.in/product/hc-12-433-si4463-wireless-serial-module/) | HC-12 wireless RF UART communication module is a new generation of multi-channel embedded wireless data transmission module.  |<img src="src_image/SI4463.png" height="80"><img src="src_image/SI4463_sch.jpg" height="80">| not_yet|
-| [Waveshare_LCD](https://robu.in/product/waveshare-2-inch-lcd-display-module-240x320/) | Waveshare 2 Inch LCD Display Module 240×320 |<img src="src_image/Waveshare_LCD.jpg" height="80">| https://files.waveshare.com/upload/e/ee/2inch_LCD_Module_SchDoc.pdf|
+| [Waveshare_LCD](https://robu.in/product/waveshare-2-inch-lcd-display-module-240x320/) | Waveshare 2 Inch LCD Display Module 240×320 |<img src="src_image/Waveshare_LCD.jpg" height="80">|<img src="src_image/Waveshare_LCD_2.png" height="80">|
 
 
 # Shield 
