@@ -33,16 +33,16 @@ PCB Ruler
 # Module
  - Can be connected to different types of development boards
 
-| Name | Info  | Image |
-| --- |  --- | :---: |
+| Name | Info  | Image | Schematic |
+| --- |  --- |  --- | :---: |
 | [MAX6675](https://robu.in/product/max6675-module-k-type-thermocouple-sensor-measure-1024-degrees-temperature/) |  K Type Thermocouple Sensor Measure 1024°C  | <img src="src_image/MAX6675.jpg" height="80"> |
-| [W5500](https://robu.in/product/spi-to-ethernet-hardware-tcp-ip-w5500-ethernet-network-module/) |  W5500 Ethernet Network Module | <img src="src_image/W5500.jpg" height="80"> |
-| [STX882](https://robu.in/product/433mhz-100-meters-stx882-ask-transmitter-module-srx882-superheterodyne-receiver-module-antenna/) |  433MHz 100 Meters STX882 ASK Transmitter Module + SRX882 Superheterodyne Receiver Module + Antenna | <img src="src_image/STX882.png" height="80"> |
-| [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |  2.4GHz NRF24L01+PA+LNA SMA Wireless Transceiver Antenna | <img src="src_image/NRF24L01.jpg" height="80"><img src="src_image/NRF24L01_pinout.jpg" height="80">  |
-| [M177 NRF24L01](https://robu.in/product/m177-nrf24l01-2-4ghz-antenna-wireless-transceiver-module/) | M177 NRF24L01 2.4GHz Antenna Wireless Transceiver Module.   |<img src="src_image/M177_NRF24L01.jpg" height="80"><img src="src_image/M177_NRF24L01_pinout.jpg" height="80"> |
+| [W5500](https://robu.in/product/spi-to-ethernet-hardware-tcp-ip-w5500-ethernet-network-module/) |  W5500 Ethernet Network Module | <img src="src_image/W5500.jpg" height="80"> | <img src="schematics/W5500.png" height="80"> | not_yet|
+| [STX882](https://robu.in/product/433mhz-100-meters-stx882-ask-transmitter-module-srx882-superheterodyne-receiver-module-antenna/) |  433MHz 100 Meters STX882 ASK Transmitter Module + SRX882 Superheterodyne Receiver Module + Antenna | <img src="src_image/STX882.png" height="80"> | not_yet|
+| [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |  2.4GHz NRF24L01+PA+LNA SMA Wireless Transceiver Antenna | <img src="src_image/NRF24L01.jpg" height="80"><img src="src_image/NRF24L01_pinout.jpg" height="80">  | not_yet|
+| [M177 NRF24L01](https://robu.in/product/m177-nrf24l01-2-4ghz-antenna-wireless-transceiver-module/) | M177 NRF24L01 2.4GHz Antenna Wireless Transceiver Module.   |<img src="src_image/M177_NRF24L01.jpg" height="80"><img src="src_image/M177_NRF24L01_pinout.jpg" height="80"> | not_yet|
 | [3.3V Adapter Board](https://robu.in/product/3-3v-adapter-board-for-24l01-wireless-module/) | It can be used with NRF24L01 wireless module  |<img src="src_image/Adapter_24L01.jpg" height="80">|
-| [HC-12 433 SI4463](https://robu.in/product/hc-12-433-si4463-wireless-serial-module/) | HC-12 wireless RF UART communication module is a new generation of multi-channel embedded wireless data transmission module.  |<img src="src_image/SI4463.png" height="80"><img src="src_image/SI4463_sch.jpg" height="80">|
-| [Waveshare_LCD](https://robu.in/product/waveshare-2-inch-lcd-display-module-240x320/) | Waveshare 2 Inch LCD Display Module 240×320 |<img src="src_image/Waveshare_LCD.jpg" height="80">|
+| [HC-12 433 SI4463](https://robu.in/product/hc-12-433-si4463-wireless-serial-module/) | HC-12 wireless RF UART communication module is a new generation of multi-channel embedded wireless data transmission module.  |<img src="src_image/SI4463.png" height="80"><img src="src_image/SI4463_sch.jpg" height="80">| not_yet|
+| [Waveshare_LCD](https://robu.in/product/waveshare-2-inch-lcd-display-module-240x320/) | Waveshare 2 Inch LCD Display Module 240×320 |<img src="src_image/Waveshare_LCD.jpg" height="80">| not_yet|
 
 
 # Shield 
