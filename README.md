@@ -65,9 +65,11 @@ PCB Ruler
 
 
 # TEST
-| Name | Info  | Image | Schematic | Datasheet  | Wiring | .INO | Library | Version | 
-| --- |  --- | :---: | --- |  --- | :---: |:---: |:---: |:---: |
-| --- |  --- | --- | --- |  --- | --- | ---  |  --- | ---  |
+
+## sample for future dev
+| Name | Info  | Image | Schematic | Datasheet  | Wiring | .INO | Library | Version | Tested | 
+| --- |  --- | :---: | --- |  --- | :---: |:---: |:---: |:---: |:---: |
+| --- |  --- | --- | --- |  --- | --- | ---  |  --- | ---  | not_yet  |
 
 
 
