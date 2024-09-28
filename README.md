@@ -29,6 +29,7 @@ Check out the hackerspace tools and hardware details.
 
 
 # Module
+ - Can be connected to different types of development boards
 
 | Name | Info  | Image |
 | --- |  --- | :---: |
@@ -42,14 +43,23 @@ Check out the hackerspace tools and hardware details.
 | [Waveshare_LCD](https://robu.in/product/waveshare-2-inch-lcd-display-module-240x320/) | Waveshare 2 Inch LCD Display Module 240×320 |<img src="src_image/Waveshare_LCD.jpg" height="80">|
 
 
+# Shield 
+
+## Arduino_nano
+ - Designed specifically to stack on top of a microcontroller board
+
+| Name | Info  | Image |
+| --- |  --- | :---: |
+| [Nano ENC28J60 Ethernet Shield ](https://robu.in/product/nano-enc28j60-ethernet-shield-v1-0-networking-module/) | The Nano ENC28J60 Ethernet Shield V1.0 is a compact and versatile networking module designed for Arduino Nano boards.   |<img src="src_image/ENC28J60.jpg" height="80"><img src="src_image/ENC28J60_back.jpg" height="80">|
 
 
 # Expansion-board
+ - Designed to expand the functionality of a system.
 
 | Name | Info  | Image |
 | --- |  --- | :---: |
 | [ESP32 Expansion Board](https://robu.in/product/30pin-esp32-expansion-board-with-type-c-usb-and-micro-usb-dual-interface-for-esp32-esp-32-esp-32s-development-board/) |  Micro USB Dual Interface for ESP32 ESP-32 ESP-32S Development Board  | <img src="src_image/ESP32_Expansion_Board.jpg" height="80"> |
-| [Nano ENC28J60 Ethernet Shield ](https://robu.in/product/nano-enc28j60-ethernet-shield-v1-0-networking-module/) | The Nano ENC28J60 Ethernet Shield V1.0 is a compact and versatile networking module designed for Arduino Nano boards.   |<img src="src_image/ENC28J60.jpg" height="80"><img src="src_image/ENC28J60_back.jpg" height="80">|
+
 
 
 
