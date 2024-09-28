@@ -41,6 +41,6 @@ Check out the hackerspace tools and hardware details.
 | Name | Info  | Image |
 | --- |  --- | :---: |
 | [ESP32 Expansion Board](https://robu.in/product/30pin-esp32-expansion-board-with-type-c-usb-and-micro-usb-dual-interface-for-esp32-esp-32-esp-32s-development-board/) |  Micro USB Dual Interface for ESP32 ESP-32 ESP-32S Development Board  | <img src="src_image/ESP32_Expansion_Board.jpg" height="80"> |
-| [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |  2.4GHz NRF24L01+PA+LNA SMA Wireless Transceiver Antenna | <img src="src_image/NRF24L01.jpg" height="80"> PINOUT <img src="src_image/NRF24L01_pinout.jpg" height="80">  |
+| [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |  2.4GHz NRF24L01+PA+LNA SMA Wireless Transceiver Antenna | <img src="src_image/NRF24L01.jpg" height="80"><img src="src_image/NRF24L01_pinout.jpg" height="80">  |
 | [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |   | |
 
