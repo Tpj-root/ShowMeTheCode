@@ -42,5 +42,10 @@ Check out the hackerspace tools and hardware details.
 | --- |  --- | :---: |
 | [ESP32 Expansion Board](https://robu.in/product/30pin-esp32-expansion-board-with-type-c-usb-and-micro-usb-dual-interface-for-esp32-esp-32-esp-32s-development-board/) |  Micro USB Dual Interface for ESP32 ESP-32 ESP-32S Development Board  | <img src="src_image/ESP32_Expansion_Board.jpg" height="80"> |
 | [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |  2.4GHz NRF24L01+PA+LNA SMA Wireless Transceiver Antenna | <img src="src_image/NRF24L01.jpg" height="80"><img src="src_image/NRF24L01_pinout.jpg" height="80">  |
-| [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |   | |
+| [M177 NRF24L01](https://robu.in/product/m177-nrf24l01-2-4ghz-antenna-wireless-transceiver-module/) | M177 NRF24L01 2.4GHz Antenna Wireless Transceiver Module.   |<img src="src_image/M177_NRF24L01.jpg" height="80"><img src="src_image/M177_NRF24L01_pinout.jpg" height="80"> |
+| [3.3V Adapter Board](https://robu.in/product/3-3v-adapter-board-for-24l01-wireless-module/) | It can be used with NRF24L01 wireless module  |<img src="src_image/Adapter_24L01.jpg" height="80">|
+| [HC-12 433 SI4463](https://robu.in/product/hc-12-433-si4463-wireless-serial-module/) | HC-12 wireless RF UART communication module is a new generation of multi-channel embedded wireless data transmission module.  |<img src="src_image/SI4463.jpg" height="80"><img src="src_image/SI4463_sch.jpg" height="80">|
+
+
+
 
