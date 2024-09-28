@@ -50,9 +50,9 @@ PCB Ruler
 ## Arduino_nano
  - Designed specifically to stack on top of a microcontroller board
 
-| Name | Info  | Image |
-| --- |  --- | :---: |
-| [Nano ENC28J60 Ethernet Shield ](https://robu.in/product/nano-enc28j60-ethernet-shield-v1-0-networking-module/) | The Nano ENC28J60 Ethernet Shield V1.0 is a compact and versatile networking module designed for Arduino Nano boards.   |<img src="src_image/ENC28J60.jpg" height="80"><img src="src_image/ENC28J60_back.jpg" height="80">|
+| Name | Info  | Image |Schematic |
+| --- |  --- | :---: |---- |
+| [Nano ENC28J60 Ethernet Shield ](https://robu.in/product/nano-enc28j60-ethernet-shield-v1-0-networking-module/) | The Nano ENC28J60 Ethernet Shield V1.0 is a compact and versatile networking module designed for Arduino Nano boards.   |<img src="src_image/ENC28J60.jpg" height="80"><img src="src_image/ENC28J60_back.jpg" height="80">| https://github.com/e-Gizmo/Ethernet-Shield-ENC28J60- |
 
 
 # Expansion-board
