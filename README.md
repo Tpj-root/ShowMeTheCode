@@ -3,7 +3,7 @@ Check out the hackerspace tools and hardware details.
 
 
 
-#TOOLS
+# Tools and Equipment for Electronics workbench
 
 | Name | Info  | Image |
 | --- |  --- | :---: |
@@ -16,4 +16,31 @@ Check out the hackerspace tools and hardware details.
 | [Hot Glue Gun](https://) | Hot Glue Gun (20W) | <img src="src_image/Hot.png" height="80"> |
 
     
-   
+# Development board
+
+
+| Name | Info  | Image |
+| --- |  --- | :---: |
+| [EPM240T100C5N](https://robu.in/product/altera-max-ii-epm240-cpld-development-board/) | Altera MAX II EPM240 CPLD Development Board | <img src="src_image/EPM240T100C5N.jpg" height="80"> |
+| [USB_Blaster](https://robu.in/product/usb-blaster-altera-cpld-fpga-programmer/) | USB Blaster ALTERA CPLD/FPGA programmer  | <img src="src_image/USB_Blaster.jpg" height="80"> |
+| [ALTERA FPGA Cyclone II ](https://robu.in/product/altera-fpga-cyclone-ii-ep2c5t144-system-development-board/) | ALTERA company’s Cyclone II EP2C5T144 chip as the core of the smallest system, the FPGA easily embedded in the actual application system  | <img src="src_image/EP2C5T144.jpg" height="80"> |
+
+
+# Module
+
+| Name | Info  | Image |
+| --- |  --- | :---: |
+| [MAX6675](https://robu.in/product/max6675-module-k-type-thermocouple-sensor-measure-1024-degrees-temperature/) |  K Type Thermocouple Sensor Measure 1024°C  | <img src="src_image/MAX6675.jpg" height="80"> |
+| [W5500](https://robu.in/product/spi-to-ethernet-hardware-tcp-ip-w5500-ethernet-network-module/) |  W5500 Ethernet Network Module | <img src="src_image/W5500.jpg" height="80"> |
+
+
+
+
+# Expansion-board
+
+| Name | Info  | Image |
+| --- |  --- | :---: |
+| [ESP32 Expansion Board](https://robu.in/product/30pin-esp32-expansion-board-with-type-c-usb-and-micro-usb-dual-interface-for-esp32-esp-32-esp-32s-development-board/) |  Micro USB Dual Interface for ESP32 ESP-32 ESP-32S Development Board  | <img src="src_image/ESP32_Expansion_Board.jpg" height="80"> |
+| [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |  2.4GHz NRF24L01+PA+LNA SMA Wireless Transceiver Antenna | <img src="src_image/NRF24L01.jpg" height="80"> |
+| [NRF24L01](https://robu.in/product/2-4ghz-nrf24l01palna-sma-antenna-wireless-transceiver-communication-module-1km/) |  PINOUT | <img src="src_image/NRF24L01_pinout.jpg" height="80"> |
+
